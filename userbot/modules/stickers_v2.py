@@ -43,11 +43,11 @@ async def _(event):
     if event.fwd_from:
         return
     if not event.reply_to_msg_id:
-        await event.edit("`Mohon Balas Ke Sticker Lord`")
+        await event.edit("`Mohon Balas Ke Sticker Petercord`")
         return
     reply_message = await event.get_reply_message()
     if not reply_message.media:
-        await event.edit("`Mohon Balas Ke Sticker Lord`")
+        await event.edit("`Mohon Balas Ke Sticker Petercord`")
         return
     chat = "@stickers_to_image_bot"
     await event.edit("`Mengubah Menjadi Gambar....`")
@@ -92,7 +92,7 @@ async def sticker_to_png(sticker):
 
     img = await sticker.get_reply_message()
     if not img.document:
-        await sticker.edit("`Maaf Lord, Ini Bukan Sticker`")
+        await sticker.edit("`Maaf Petercord, Ini Bukan Sticker`")
         return False
 
     await sticker.edit("`Berhasil Mengambil Sticker!`")
