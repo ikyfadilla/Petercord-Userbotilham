@@ -15,7 +15,7 @@ async def _(hazmat):
     if hazmat.fwd_from:
         return
     if not hazmat.reply_to_msg_id:
-        await hazmat.edit("`Lord, Mohon Balas Ke Sticker/Gambar ヅ`")
+        await hazmat.edit("`Petercord, Mohon Balas Ke Sticker/Gambar ヅ`")
         return
     reply_message = await hazmat.get_reply_message()
     if not reply_message.media:
@@ -40,7 +40,7 @@ async def _(hazmat):
             """ - don't spam notif - """
             await bot.send_read_acknowledge(conv.chat_id)
         except YouBlockedUserError:
-            await hazmat.reply("`Lord, Mohon Buka Blokir` @hazmat_suit_bot `Lalu Coba Lagi`")
+            await hazmat.reply("`Petercord, Mohon Buka Blokir` @hazmat_suit_bot `Lalu Coba Lagi`")
             return
         if response.text.startswith("I can't"):
             await hazmat.edit("`Mohon Maaf Petercord, GIF Tidak Bisa...`")
