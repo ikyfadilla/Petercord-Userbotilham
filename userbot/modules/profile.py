@@ -30,14 +30,14 @@ from userbot import bot, CMD_HELP, TEMP_DOWNLOAD_DIRECTORY
 from userbot.events import register
 
 # ====================== CONSTANT ===============================
-INVALID_MEDIA = "```Maaf Lord Media Tidak Valid.```"
-PP_CHANGED = "```Lord, Foto Profil Anda Telah Berhasil Diubah.```"
-PP_TOO_SMOL = "```Gambar Terlalu Kecil Lord, Mohon Gunakan Yang Lebih Besar.```"
+INVALID_MEDIA = "```Maaf Petercord Media Tidak Valid.```"
+PP_CHANGED = "```Petercord, Foto Profil Anda Telah Berhasil Diubah.```"
+PP_TOO_SMOL = "```Gambar Terlalu Kecil Petercord, Mohon Gunakan Yang Lebih Besar.```"
 PP_ERROR = "```Kegagalan Terjadi Saat Proses Gambar, Foto Profil Gagal Diubah.```"
 
-BIO_SUCCESS = "```Lord, Bio Anda Telah Berhasil Diubah.```"
+BIO_SUCCESS = "```Petercord, Bio Anda Telah Berhasil Diubah.```"
 
-NAME_OK = "```Lord, Nama Anda Telah Berhasil Diubah.```"
+NAME_OK = "```Petercord, Nama Anda Telah Berhasil Diubah.```"
 USERNAME_SUCCESS = "```Username Anda Sudah Diubah.```"
 USERNAME_TAKEN = "```Mohon Maaf Lord, Username Itu Sudah Ada Yang Menggunakannya.```"
 # ===============================================================
