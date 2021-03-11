@@ -1,5 +1,5 @@
 # Based Plugins
-# Ported for Petercord-Userbot By @bismillahselaluadaa/ILham
+# Ported for Petercord-Userbot By bismillahselaluadaa/ILham
 
 from telethon import events
 from userbot.events import register
