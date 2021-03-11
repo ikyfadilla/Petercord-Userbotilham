@@ -1,5 +1,5 @@
 # by:koala @bismillahselaluadaa
-# Lord Userbot
+# Petercord Userbot
 
 from telethon.events import ChatAction
 from userbot import ALIVE_NAME, CMD_HELP, bot
