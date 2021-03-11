@@ -530,6 +530,7 @@ async def koc(e):
         await e.edit("💘💕💞💝")
         await e.edit("MUACH MUACH😍😁💞")
 # Create by myself @localheart
+
 CMD_HELP.update({
     "gabut":
     "`.gabut` ; `.dino`\
