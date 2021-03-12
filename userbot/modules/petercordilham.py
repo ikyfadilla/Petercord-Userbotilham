@@ -125,10 +125,10 @@ async def typewriter(typew):
 
 
 CMD_HELP.update({
-    "vip":
+    "vvip":
     "`.sad` ; `.pikiran`\
     \nUsage: liat aja.\
-    \n\n`.sad` ; `.tank` ; `.tembak`\n`.gitar`\
+    \n\n`.sad` ; `.tembak`\n`.gitar`\
     \nUsage: liat sendiri\
     \n\n`.senyum`\
     \nUsage: ketawa lari.\
