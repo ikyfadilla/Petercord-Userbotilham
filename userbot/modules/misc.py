@@ -70,7 +70,7 @@ async def killdabot(event):
     await event.delete()
     if BOTLOG:
         await event.client.send_message(BOTLOG_CHATID, "#SHUTDOWN \n"
-                                        "`Lord-Userbot Telah Dimatikan`")
+                                        "`Petercord-Userbot Telah Dimatikan`")
     await bot.disconnect()
 
 
@@ -120,7 +120,7 @@ async def repeat(rep):
 async def repo_is_here(wannasee):
     """ For .repo command, just returns the repo URL. """
     await wannasee.edit(
-        "❃ **Repo Userbot:** [Petercord-Userbot](https://github.com/ilham77mansiz/Petercord-Userbotilham)\n❃ **Pemilik:** [ILham Mansiezz](t.me/bismillahselaluadaa)"
+        "❃ **Repo Userbot:** [Petercord-Userbot](https://github.com/ilham77mansiz/Petercord-Userbotilham/tree/Petercord-Userbotilham)\n❃ **Pemilik:** [ILham Mansiezz](t.me/bismillahselaluadaa)"
     )
 
 
@@ -159,7 +159,7 @@ async def okgoogle(img):
         photo = io.BytesIO()
         await bot.download_media(message, photo)
     else:
-        await img.edit("`Harap Balas Di Gambar Lord`")
+        await img.edit("`Harap Balas Di Gambar Petercord`")
         return
 
     if photo:
