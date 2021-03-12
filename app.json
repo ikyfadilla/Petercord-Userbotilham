@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ilham77mansiz/Petercord-Userbotilham/tree/Petercord-Userbotilham",
+  "repository": "https://github.com/ilham77mansiz/Petercord-Userbotilham",
   "telegram": "https://t.me/bismillahselaluadaa",
   "success_url": "https://t.me/bismillahselaluadaa",
   "stack": "container",
@@ -158,8 +158,8 @@
       "description": "Nama untuk menunjukan pesan .alive",
       "required": false
     },
-    "Petercord_TEKS_KUSTOM": {
-      "description": "Kustom Pesan Alive Mu Untuk Perintah .petercord (Isi Terserah)",
+    "PETERCORD_TEKS_KUSTOM": {
+      "description": "Kustom Pesan Alive Mu Untuk Perintah .lord (Isi Terserah)",
       "required": false
     },
     "S_PACK_NAME": {
@@ -198,7 +198,7 @@
     },
     "WEATHER_DEFCITY": {
       "description": "Set the default city for the userbot's weather module.",
-      "value": "Batam",
+      "value": "Medan",
       "required": false
     },
     "LOGSPAMMER": {
