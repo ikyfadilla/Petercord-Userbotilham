@@ -464,6 +464,9 @@ async def typewriter(typew):
     await typew.edit("`KAN KEINGET😑`")
     sleep(1)
     await typew.edit("`CUMA MANTAN AJAPUN🥺`")
+    await typew.edit("`😁`")
+    await typew.edit("`MANTAN KEKASIH GELAP`")
+    await typew.edit("`😂`")
 # Create by myself @localheart
 
 @register(outgoing=True, pattern='^.sedih(?: |$)(.*)')
