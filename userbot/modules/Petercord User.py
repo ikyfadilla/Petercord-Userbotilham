@@ -568,6 +568,48 @@ async def koc(e):
         await e.edit("MUACH MUACH😍😁💞")
 # Create by myself @localheart
 
+@register(outgoing=True, pattern='^.galau(?: |$)(.*)')
+async def typewriter(typew):
+    typew.pattern_match.group(1)
+    sleep(5)
+    await typew.edit("`🎸 JRENG JRENG JRENG `")
+    sleep(3)
+    await typew.edit("`KUMOHON KAU MENGERTI COBALAH KAU TAMBAHKAN HATI`")
+    sleep(2)
+    await typew.edit("`🎸 MUNGKIN DISAAT INI CINTA KITA SEDANG DIUJI `")
+    sleep(2)
+    await typew.edit("`TABAHKANLAH HATIMU OLEH SIKSA ORANG TUAMU `")
+    sleep(2)
+    await typew.edit("`🎸 KUYAKIN KITA MAMPU BILA KITA SALING MENUNGGU `")
+    sleep(2)
+    await typew.edit("`KU KAN SELALU SENANG MENUNGGU (WALAU HANYA KEKASIH GELAP MU`")
+    sleep(2)
+    await typew.edit("`🎸 SAD YA SEBAGAI SIMPANAN `")
+    sleep(2)
+    await typew.edit("`DAHLA MALES 🙂`")
+# Create by myself @localheart
+
+@register(outgoing=True, pattern='^.sad(?: |$)(.*)')
+async def typewriter(typew):
+    typew.pattern_match.group(1)
+    sleep(1)
+    await typew.edit("` MARI KITA NANGIS-NANGIS BUAT YANG LAGI PATAH HATI/BROKENHOME `")
+    sleep(1)
+    await typew.edit("`1`")
+    sleep(1)
+    await typew.edit("` 2 `")
+    sleep(1)
+    await typew.edit("` 3 `")
+    sleep(2)
+    await typew.edit("` 🥺 `")
+    sleep(2)
+    await typew.edit("`😭`")
+    sleep(2)
+    await typew.edit("`🥺`")
+    sleep(2)
+    await typew.edit("`😭`")
+# Create by myself @localheart
+
 CMD_HELP.update({
     "gabut":
     "`.gabut` ; `.dino`\
