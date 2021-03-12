@@ -126,10 +126,5 @@ async def typewriter(typew):
 
 
 
-CMD_HELP.update({
-    "vvip":
-    "`.sad` ; `.gaje` ; `.pikiran`\
-    \nUsage: liat aja.\
-    \n\n`.senyum` 
    
 })
