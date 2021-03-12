@@ -46,4 +46,4 @@ Atau Bisa Gabung Ke Grup Petercord User -> [TEKAN DISINI](https://t.me/LordUserb
 ## Credit
 TERIMAKASIH UNTUK
 
-https://t.me/bismillahselaluadaa
+[ILham Mansiezz](https://t.me/bismillahselaluadaa)
