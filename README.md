@@ -42,7 +42,7 @@ Atau Bisa Gabung Ke Grup Petercord User -> [TEKAN DISINI](https://t.me/LordUserb
 <br>
 </p>
 
-## Credit
+## TERIMAKASIH
 TERIMAKASIH UNTUK
 
 [ILham Mansiezz](https://t.me/bismillahselaluadaa)
