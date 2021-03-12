@@ -124,7 +124,12 @@ async def typewriter(typew):
                      "─▀───────▀▀─▀───────▀▀\n`SENYUM JALAN LIAT MANTAN..`")
 
 
-
-
-   
+CMD_HELP.update({
+    "vip":
+    "`.sad` ; `.pikiran`\
+    \nUsage: liat aja.\
+    \n\n`.sad` ; `.tank` ; `.tembak`\n`.gitar`\
+    \nUsage: liat sendiri\
+    \n\n`.senyum`\
+    \nUsage: ketawa lari.\
 })
