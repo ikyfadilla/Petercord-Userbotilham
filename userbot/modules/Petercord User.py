@@ -464,8 +464,11 @@ async def typewriter(typew):
     await typew.edit("`KAN KEINGET😑`")
     sleep(1)
     await typew.edit("`CUMA MANTAN AJAPUN🥺`")
+    sleep(5)
     await typew.edit("`😁`")
+    sleep(5)
     await typew.edit("`MANTAN KEKASIH GELAP`")
+    sleep(5)
     await typew.edit("`😂`")
 # Create by myself @localheart
 
