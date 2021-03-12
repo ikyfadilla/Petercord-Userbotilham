@@ -1,6 +1,3 @@
-### Run on repl.it
-
-[![Run repl.it](https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it)](https://repl.it/@mansiezz/String-Sesson-Petercord-Userbot#main.py)
 
 #Petercord
 </p>  
@@ -15,8 +12,10 @@
 Repo Yang Dibuat [ILham Mansiezz](https://t.me/bismillahselaluadaa) Dari Berbagai Repo Userbot Github 
 
 
-### CARA MENDAPATKAN STRING SESSON
+### CARA MENDAPATKAN STRING SESSON /STRING DISINI
+### Run on repl.it
 
+[![Run repl.it](https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it)](https://repl.it/@mansiezz/String-Sesson-Petercord-Userbot#main.py)
 Caranya Pergi Ke Grup Support Petercord User Lalu Ketik #String [TEKAN DISINI](https://t.me/petercord) Untuk Masuk Ke Grup Support
 
 ## Bagaimana Cara Deploy?
