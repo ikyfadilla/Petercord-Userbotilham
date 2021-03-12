@@ -2,9 +2,7 @@
 
 [![Run repl.it](https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it)](https://repl.it/@mansiezz/String-Sesson-Petercord-Userbot#main.py)
 
-### or Run on your terminal
-    ![Petercord User Logo](https://telegra.ph/file/dd6d0e499273c59aa7ebc.jpg) 
-  </a>
+#Petercord
 </p>  
 
 # Petercord User
