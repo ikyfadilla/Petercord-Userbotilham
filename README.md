@@ -1,5 +1,4 @@
-# Petercord Userbot
-![Petercord Userbot Logo](https://telegra.ph/file/a4e3ac95fb7ecb7c7efb7.mp4)
+
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5501763.gif" width="473" height="82" alt="PETERCORD USERBOT" /></a>
 </p>  
 
