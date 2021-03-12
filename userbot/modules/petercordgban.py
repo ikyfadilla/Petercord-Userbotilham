@@ -1,4 +1,4 @@
-# by:koala @bismillahselaluadaa
+# by:ilham @bismillahselaluadaa
 # Petercord Userbot
 
 from telethon.events import ChatAction
