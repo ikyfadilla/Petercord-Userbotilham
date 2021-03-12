@@ -1,5 +1,5 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5512622.gif" width="473" height="90" alt="PETERCORD USERBOT" /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3788835201">Create Your Own Logo</a>
+
 
 </p>  
 
