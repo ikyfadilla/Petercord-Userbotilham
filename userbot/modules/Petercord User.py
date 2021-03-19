@@ -631,6 +631,27 @@ async def typewriter(typew):
     await typew.edit("`🚥 Yah Ketangkap`")
 # Create by myself @localheart
 
+@register(outgoing=True, pattern='^/wkwk(?: |$)(.*)')
+async def typewriter(typew):
+    typew.pattern_match.group(1)
+    sleep(1)
+    await typew.edit("` 😂 `")
+    sleep(1)
+    await typew.edit("`🤣`")
+    sleep(1)
+    await typew.edit("` 😁 `")
+    sleep(1)
+    await typew.edit("` 😅`")
+    sleep(1)
+    await typew.edit("`😄`")
+    sleep(2)
+    await typew.edit("`😀`")
+    sleep(1)
+    await typew.edit("`😆`")
+    sleep(1)
+    await typew.edit("`😓`")
+# Create by myself @localheart
+
 CMD_HELP.update({
     "gabut":
     "`.gabut` ; `.dino`\
