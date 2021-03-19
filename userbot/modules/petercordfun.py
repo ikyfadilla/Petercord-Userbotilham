@@ -47,7 +47,7 @@ async def _(event):
     await tap[0].click(event.chat_id)
     await event.delete()
 
-@register(outgoing=True, pattern=r"^\.quiz(?: |$)(.*)")
+@register(outgoing=True, pattern=r"^\.quizbot(?: |$)(.*)")
 async def _(event):
     if event.fwd_from:
         return
