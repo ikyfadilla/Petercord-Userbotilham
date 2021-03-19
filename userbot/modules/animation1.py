@@ -1,7 +1,8 @@
+from time import sleep
+from userbot import CMD_HELP, bot
+from userbot.events import register
+from telethon import events
 import asyncio
-from collections import deque
-
-from . import mention
 
 
 @bot.on(admin_cmd(pattern="stupid$"))
