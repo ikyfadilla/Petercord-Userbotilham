@@ -610,6 +610,27 @@ async def typewriter(typew):
     await typew.edit("`😭`")
 # Create by myself @localheart
 
+@register(outgoing=True, pattern='^razia(?: |$)(.*)')
+async def typewriter(typew):
+    typew.pattern_match.group(1)
+    sleep(1)
+    await typew.edit("` 🏍️ `")
+    sleep(2)
+    await typew.edit("`🏍️`")
+    sleep(2)
+    await typew.edit("` 🚓 `")
+    sleep(2)
+    await typew.edit("` WIU WIU`")
+    sleep(2)
+    await typew.edit("` 🚓 `")
+    sleep(2)
+    await typew.edit("`🚑`")
+    sleep(2)
+    await typew.edit("`🚓`")
+    sleep(2)
+    await typew.edit("`🚥`")
+# Create by myself @localheart
+
 CMD_HELP.update({
     "gabut":
     "`.gabut` ; `.dino`\
