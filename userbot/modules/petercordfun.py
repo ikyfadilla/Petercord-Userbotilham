@@ -47,11 +47,11 @@ async def _(event):
     await tap[0].click(event.chat_id)
     await event.delete()
 
-@register(outgoing=True, pattern=r"^\.pertanyaan(?: |$)(.*)")
+@register(outgoing=True, pattern=r"^\.katagame(?: |$)(.*)")
 async def _(event):
     if event.fwd_from:
         return
-    botusername = "@QuizBot"
+    botusername = "@KataBersambungBot"
     noob = "play"
     if event.reply_to_msg_id:
         await event.get_reply_message()
