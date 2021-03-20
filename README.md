@@ -1,6 +1,4 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5512630.gif" width="292" height="49" alt="PETERCORD USERBOT" /></a>
-
-
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5515051.png" width="454" height="103" alt="PETERCORD" /></a>
 </p>  
 
 # Petercord User
