@@ -2,7 +2,7 @@
 </p>  
 
 # Petercord User
-![Petercord User Logo](https://telegra.ph/file/f4d7c0999510528dec925.jpg)
+
 ![Petercord User Logo](https://telegra.ph/file/0862ca575f34361ac5e0d.jpg)
 <h3 align="center">Userbot Yang Digunakan Untuk Bersenang-Senang Di Telegram</h3>
 <p align="center">&nbsp;</p>
