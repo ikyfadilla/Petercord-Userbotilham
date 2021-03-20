@@ -652,6 +652,27 @@ async def typewriter(typew):
     await typew.edit("`😓`")
 # Create by myself @localheart
 
+@register(outgoing=True, pattern='^melamar(?: |$)(.*)')
+async def typewriter(typew):
+    typew.pattern_match.group(1)
+    sleep(1)
+    await typew.edit("` AKU ADALAH KAMU  `")
+    sleep(1)
+    await typew.edit("`AKU INGIN MENJADI TEMAN HIDUP UNTUKMU`")
+    sleep(1)
+    await typew.edit("` MAU GAK KALAU GAK MAU AKU TARIK LAGI KATA NYA `")
+    sleep(1)
+    await typew.edit("`KALAU MAU MAH TROBOS AJA`")
+    sleep(1)
+    await typew.edit("`😄`")
+    sleep(2)
+    await typew.edit("`BISMILAH`")
+    sleep(1)
+    await typew.edit("`KUCINTAI DIRIMU SEKARANG DENGAN SAH`")
+    sleep(1)
+    await typew.edit("`DILAN 1990`")
+# Create by myself @localheart
+
 CMD_HELP.update({
     "gabut":
     "`.gabut` ; `.dino`\
