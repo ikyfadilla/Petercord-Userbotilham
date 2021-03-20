@@ -673,6 +673,27 @@ async def typewriter(typew):
     await typew.edit("`DILAN 1990`")
 # Create by myself @localheart
 
+@register(outgoing=True, pattern='^buaya(?: |$)(.*)')
+async def typewriter(typew):
+    typew.pattern_match.group(1)
+    sleep(1)
+    await typew.edit("`KAMU MAU LIHAT BUAYA `")
+    sleep(1)
+    await typew.edit("`INISIAL R 🐊`")
+    sleep(1)
+    await typew.edit("` INISIAL V 🦎 `")
+    sleep(1)
+    await typew.edit("`INISIAL I 👌`")
+    sleep(1)
+    await typew.edit("`INISIAL D 🐊🦎`")
+    sleep(2)
+    await typew.edit("`C 🐊 DARAT`")
+    sleep(1)
+    await typew.edit("`U🦎 LAUT`")
+    sleep(1)
+    await typew.edit("`ITULAH BUAYA BUAYA HATI HATI YA 😁`")
+# Create by myself @localheart
+
 CMD_HELP.update({
     "gabut":
     "`.gabut` ; `.dino`\
