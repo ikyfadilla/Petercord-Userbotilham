@@ -115,12 +115,18 @@ async def repeat(rep):
 
     await rep.edit(replyText)
 
+@register(outgoing=True, pattern="^.repowatshapp$")
+async def repo_is_here(wannasee):
+    """ For .repo command, just returns the repo URL. """
+    await wannasee.edit(
+        "❃ **Watshapp Userbot:** [Watshapp-Userbot](https://github.com/ilham77mansiz/bot-wa)\n❃ **Pemilik:** [ILham Mansiezz](t.me/bismillahselaluadaa)"
+    )
 
 @register(outgoing=True, pattern="^.repo$")
 async def repo_is_here(wannasee):
     """ For .repo command, just returns the repo URL. """
     await wannasee.edit(
-        "❃ **Repo Userbot:** [Petercord-Userbot](https://github.com/ilham77mansiz/Petercord-Userbotilham/tree/Petercord-Userbotilham)\n❃ **Pemilik:** [ILham Mansiezz](t.me/bismillahselaluadaa)"
+        "❃ **Repo Userbot:** [Petercord-Userbot](https://github.com/ilham77mansiz/Petercord-Userbotilham)\n❃ **Pemilik:** [ILham Mansiezz](t.me/bismillahselaluadaa)"
     )
 
 
@@ -159,7 +165,7 @@ async def okgoogle(img):
         photo = io.BytesIO()
         await bot.download_media(message, photo)
     else:
-        await img.edit("`Harap Balas Di Gambar Petercord`")
+        await img.edit("`Harap Balas Di Gambar Lord`")
         return
 
     if photo:
